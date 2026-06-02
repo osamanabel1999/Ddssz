@@ -33,7 +33,7 @@ class _AfterStartFlowWidgetState extends State<AfterStartFlowWidget> {
   final Color textColor = Colors.white; // لون النص
 
   // نمط الخط للـ Items
-  TextStyle get itemTextStyle => GoogleFonts.robotoCondensed(
+  TextStyle get itemTextStyle => GoogleFonts.roboto(
         color: textColor,
         fontSize: 16.0,
         fontWeight: FontWeight.w500,
