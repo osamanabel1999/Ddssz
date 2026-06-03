@@ -95,7 +95,7 @@ dependencies:
 dependency_overrides:
   http: 1.4.0
   uuid: ^4.0.0
-  font_awesome_flutter: 10.8.0
+  font_awesome_flutter: any   # رجعناها any عشان نسحب أحدث إصدار متوافق مع فلاتر الجديد
   page_transition: any
 
 dev_dependencies:
