@@ -95,7 +95,7 @@ dependencies:
 dependency_overrides:
   http: 1.4.0
   uuid: ^4.0.0
-  font_awesome_flutter: any
+  font_awesome_flutter: 10.8.0
   page_transition: any
 
 dev_dependencies:
